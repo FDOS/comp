@@ -1,20 +1,16 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!DOCTYPE html
-	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head><title>base/comp.lsm</title>
-</head><body><pre>Begin3
-Title:          comp
+Begin3
+Title:          COMP
 Version:        1.04
-Entered-date:   2006-10-22
+Entered-date:   2006-10-21
 Description:    Compare files and display their differences
-Keywords:       freedos
-Author:         Paul Vojta &lt;vojta<em>&#64;</em>math.berkeley.edu&gt;
-Maintained-by:  Paul Vojta &lt;vojta<em>&#64;</em>math.berkeley.edu&gt;
-Primary-site:   http://math.berkeley.edu/~vojta
+Keywords:       compare, comp, file compare
+Author:         Paul Vojta <vojta -at- math.berkeley.edu>
+Maintained-by:  Paul Vojta <vojta -at- math.berkeley.edu>
+Primary-site:   http://math.berkeley.edu/~vojta/
+                comp0104.zip
 Alternate-site: http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/comp/
-Original-site:  http://math.berkeley.edu/~vojta
-Platforms:      dos
-Copying-policy: Free / open source (MIT-style)
+Original-site:  http://math.berkeley.edu/~vojta/
+                comp0104.zip
+Platforms:      DOS, FreeDOS
+Copying-policy: free / source code available
 End
-</pre></body></html>
