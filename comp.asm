@@ -104,12 +104,12 @@ area43	equ	end1
 attr	equ	21		;offset in area43
 flname	equ	30		;ditto
 
-errcnt	equ	word end1+43
-bufno	equ	word end1+45
-len1	equ	word end1+47
-len2	equ	word end1+49
-buflen	equ	word end1+51
-atlflag	equ	byte end1+53
+errcnt	equ	end1+43		;word
+bufno	equ	end1+45		;word
+len1	equ	end1+47		;word
+len2	equ	end1+49		;word
+buflen	equ	end1+51		;word
+atlflag	equ	end1+53		;byte
 buf	equ	end1+54
 
 ;	Begin.  Set disk transfer address and slash.
